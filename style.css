@@ -250,10 +250,7 @@
 img{
   max-width:100%;
 }
-@media only screen and (max-width:992px){
-  .container{
-    width:970px;
-  }
+@media only screen and (max-width:992px){ 
   html{
     font-size:90%;
   }
@@ -267,10 +264,7 @@ img{
     padding:0; 
   }
 }
-@media only screen and (max-width:768px) {
-  .container{
-    width: 750px; 
-  }
+@media only screen and (max-width:768px) { 
   html{
     font-size:80%;
   }  
@@ -297,10 +291,7 @@ img{
     max-width: 80%;
   }
 }
-@media only screen and (max-width:576px){
-  .container{
-    width:560px;
-  }
+@media only screen and (max-width:576px){ 
   html{
     font-size:60%;
   }
